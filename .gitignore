@@ -1,0 +1,22 @@
+.DS_Store
+__pycache__/
+*.py[cod]
+
+# course config files
+*.yaml
+
+# gradle
+.gradle/
+build
+
+
+# idea config
+.idea
+
+# old stages
+/util
+/Tic-Tac-Toe with AI (Python)/*
+!/Tic-Tac-Toe with AI (Python)/task/
+/Tic-Tac-Toe with AI (Python)/task/*
+!/Tic-Tac-Toe with AI (Python)/task/tictactoe.py
+!/Tic-Tac-Toe with AI (Python)/task/mytest.py
